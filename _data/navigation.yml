@@ -1,0 +1,26 @@
+# Site navigation links
+
+#- title: Work
+#  url: /work/
+#  excerpt: "Things designed, illustrated, or developed by Michael Rose."
+#  image: relic-scout-teaser-225.jpg
+
+- title: Articles
+  url: /articles/
+  excerpt: "Android 개발 관련 내용을 모으고 정리하고 있습니다."
+#  image: skinny-bones-theme-teaser-225.jpg
+
+#- title: Copycat App UI
+#  url: /copycat-app-ui/
+#  excerpt: "Android 앱의 특징적인 UI를 모방하는 방법에 대해서 정리해 본다."
+#  image: paper-53-erasing-teaser.jpg
+
+#- title: PaperFaces  
+#  url: /paperfaces/
+#  excerpt: "Gallery of my PaperFaces portrait project drawn on an iPad with Paper by FiftyThree."
+#  image: paperfaces-remi-l-teaser.jpg
+
+#- title: About
+#  url: /about/
+#  excerpt: "Michael Rose is just another boring, tattooed, time traveling designer from Buffalo."
+#  image: about-teaser-225.jpg

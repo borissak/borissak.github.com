@@ -1,0 +1,19 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+#- title: FAQs
+#  url: /faqs/
+
+#- title: Subscribe
+#  url: /subscribe/
+
+#- title: Support
+#  url: /support/
+
+#- title: Terms
+#  url: /terms/    

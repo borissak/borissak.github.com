@@ -1,0 +1,68 @@
+# Site wide configuration
+
+title: Bori ssak
+description: "앱 개발과, 정보에 대해서 정리하는 개인 블로그입니다."
+logo: site-logo.png
+teaser: borissak-teaser.jpg
+locale: ko_KR
+url: http://borissak.github.com/
+#baseurl: http://borissak.github.com/testTheme/
+
+
+# Jekyll configuration
+# sass:
+#    sass_dir: _sass
+#    style: compressed
+permalink: /:categories/:title/
+lsi: true
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+include: [".htaccess"]
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "node_modules", "Gruntfile.js", "package.json", ".jekyll-assets-cache"]  
+
+
+# Plugin: jekyll-assets
+
+#assets:
+#  sources:
+#    - _assets/javascripts
+#    - _assets/stylesheets
+#  js_compressor: uglifier
+#  css_compressor: sass
+#  cachebust: hard
+#  cache: true
+#  debug: false
+#  version: 1
+
+
+# Site owner
+
+owner:
+  name: Bori ssak
+  email: t.borissak@mademistakes.com
+  google:
+    ad-client: ca-pub-2962708026533144
+    ad-slot: 1087441475
+#  twitter: mmistakes
+#  facebook: michaelrose
+#  instagram: mmistakes
+#  tumblr: mademistakes
+#  google:
+#    ad-client: ca-pub-7328585512091257
+#    ad-slot: 3049671934
+#    analytics: UA-2011187-1
+#    plus: https://plus.google.com/+MichaelRoseDesign/posts
+#    verify: geapSKtvpBNDSfXVmF09E9CnaHGglbO61r4XgLZtEmo
+#  bing:   
+#    verify: D81F4C18A6CB3018F64D7C827D953DFD
+#  alexa:
+#    verify: Y5DYjZ4VWlrQzBP5kcQJeOKLNas
+#  yandex:
+#    verify: 55a5419baf76a498
+#  bio: "Just another boring, tattooed, time traveling designer from Buffalo."
+#  avatar: bio-photo.jpg # 160x160 px image for author byline
+#disqus-shortname: mmistakes
