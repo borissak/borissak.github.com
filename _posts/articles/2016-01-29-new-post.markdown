@@ -6,7 +6,7 @@ image:
   thumb: # Grid에서 표시할때 노출되는?? 아닌가요?!
   teaser: # 
   feature: # 페이지 상단에 노출 되는 이미지 
-category: sample
+category: articles
 tags: [아이폰, 뷰]
 ---
 
