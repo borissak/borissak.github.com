@@ -1,0 +1,15 @@
+---
+layout: article
+title: "포스트 테스트"
+excerpt: "새로운 글은 어떻게 써야 하는것인가?"
+image: 
+  thumb: # Grid에서 표시할때 노출되는?? 아닌가요?!
+  teaser: # 
+  feature: # 페이지 상단에 노출 되는 이미지 
+category: articles
+tags: [아이폰, 뷰]
+---
+
+###### 아닌건 아니지!!
+
+키보드 앱을 개발할것은 아니지만 키보드관련해서 필요한 항목들이 있었다. 
