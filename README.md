@@ -1,2 +1,2 @@
-borissak.github.com
+borissak.github.io
 ===================
