@@ -1,0 +1,15 @@
+---
+layout: article
+title: "포스트 테스트"
+excerpt: "가끔 글을 쓰고 플떼가 있다!"
+image: 
+  thumb: # Grid에서 표시할때 노출되는?? 아닌가요?!
+  teaser: # 
+  feature: # 페이지 상단에 노출 되는 이미지 
+category: articles
+tags: [아이폰, 뷰]
+---
+
+###### 어떻게?
+
+대충 대충?
